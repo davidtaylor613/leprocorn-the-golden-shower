@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/LEPROCORN_THE_GOLDEN_SHOWER.unity
-  isLoaded: 1
-  isActive: 1
