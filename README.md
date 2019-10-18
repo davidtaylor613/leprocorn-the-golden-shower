@@ -1,4 +1,4 @@
-# leprocorn-the-golden-shower
+# leprocorn-the-golden-hunt
 game jam
 
 
